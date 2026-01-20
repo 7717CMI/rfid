@@ -1,0 +1,55 @@
+{
+  "Europe and Middle East": {
+    "By Component": {},
+    "By Technology": {},
+    "By Frequency": {},
+    "By Application": {},
+    "By End Use Industry": {
+      "Retail & E-Commerce": {
+        "Food & Grocery Retail": {},
+        "Textile & Apparel Retail": {},
+        "Consumer Goods & FMCG Retail": {},
+        "Electronics & Specialty Retail": {},
+        "Omnichannel & Online Retail": {}
+      },
+      "Healthcare & Pharmaceuticals": {
+        "Hospitals & Clinics": {},
+        "Pharmaceutical Manufacturing": {},
+        "Pharmaceutical Distribution": {},
+        "Medical Devices & Equipment": {}
+      },
+      "Logistics & Transportation": {
+        "Supermarket & Grocery Logistics": {},
+        "Retail Distribution Centers": {},
+        "Warehousing & Fulfillment Services": {},
+        "Ports Airports & Cargo Handling": {},
+        "Cold-Chain Logistics": {}
+      },
+      "Aerospace & Defense": {
+        "Commercial Aviation": {},
+        "Military & Defense Equipment": {},
+        "Maintenance Repair & Overhaul (MRO)": {}
+      },
+      "Others": {
+        "Others": {}
+      }
+    },
+    "By Country": {
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Turkey": {},
+        "Rest of Middle East": {}
+      }
+    }
+  }
+}
